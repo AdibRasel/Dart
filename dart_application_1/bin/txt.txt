@@ -1,0 +1,7 @@
+// Q1: Find Shekh Hasina on the map.
+
+// Q2: Delete the item where the value is  Bangladesh.
+
+// Q3: Update the population value and print the map.
+
+// Q4: Make an enum and check its value using a switch-case.
